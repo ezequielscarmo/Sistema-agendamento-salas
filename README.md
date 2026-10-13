@@ -1,6 +1,6 @@
 # Sistema de Agendamento de Salas - Python | UML
 
-Projeto academico de Engenharia de Software (2o periodo).
+Projeto academico de Engenharia de Software (2 periodo).
 Modelagem de Casos de Uso, Sequencia e Estados.
 
 Funcionalidades:
